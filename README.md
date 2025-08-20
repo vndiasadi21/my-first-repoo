@@ -3,7 +3,7 @@ package com.example.notepad
 import android.content.Contex
 import android.os.Bundle
 import android.widget.*
-import androidx.appcompat.app.AppCompatActivit
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
