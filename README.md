@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 class MainActivity : AppCompatActivity() {
 
     private lateinit var noteInput: EditText
-    private lateinit var saveButton: Button
+    private lateinit var saveButton: Butto
     private lateinit var noteList: ListView
     private lateinit var adapter: ArrayAdapter<String>
     private val notes = mutableListOf<String>()
