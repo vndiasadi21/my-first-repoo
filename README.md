@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var noteInput: EditText
     private lateinit var saveButton: Button
-    private lateinit var noteList: ListVie
+    private lateinit var noteList: ListViewe
     private lateinit var adapter: ArrayAdapter<String>
     private val notes = mutableListOf<String>()
 
