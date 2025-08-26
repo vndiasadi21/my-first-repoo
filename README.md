@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, notes)
         noteList.adapter = adapter
 
-        saveButton.setOnClickListener {
+        Button.setOnClickListener {
             val note = noteInput.text.toString()
             if (note.isNotEmpty()) {
                 notes.add(note)
