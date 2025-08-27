@@ -34,4 +34,4 @@ class MainActivity : AppCompatActivity() {
                 noteInput.text.clear()
                 saveNotes()
             } else {
-                Toast.makeText(this
+                Toast.makeText(this9w
