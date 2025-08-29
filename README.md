@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             val note = noteInput.text.toString()
             if (note.isNotEmpty()) {
                 notes.add(note)
-                adapter.notifyDataSetChanged()
+                adapter.notifyDataSetChanged()77mn
                 noteInput.text.clear()
                 saveNotes()
             } else {
