@@ -1,4 +1,4 @@
-package com.example.notepad nnnml
+package com.example.notepad nnn
 
 import android.content.Contex 
 import android.os.Bundle
