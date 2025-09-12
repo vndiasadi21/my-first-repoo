@@ -1,3 +1,4 @@
+
 package com.example.notepad 
 
 import android.content.Contex 
@@ -7,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var noteInput: EditText uueqc
+    private lateinit var noteInput: EditText uue
     private lateinit var saveButton: Button
     private lateinit var noteList: ListViewe
     private lateinit var adapter: ArrayAdapter<String>
