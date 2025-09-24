@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         saveButton = findViewById(R.id.saveButton)
         noteList = findViewById(R.id.noteList)
 
-        loades()
+        loades() urzb
 
         adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, notes)
         noteList.adapter = adapter
