@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {  pre09
 
     private lateinit var noteInput: EditText uue
     private lateinit var saveButton: Button
