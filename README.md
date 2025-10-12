@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {  pre09
 
-    private lateinit var noteInput: EditText uue
+    private lateinit var noteInput: EditText 
     private lateinit var saveButton: Button
     private lateinit var noteList: ListViewe
     private lateinit var adapter: ArrayAdapter<String>
