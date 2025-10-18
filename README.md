@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity() {  pre
+class MainActivity : AppCompatActivity() {  pr
 
     private lateinit var noteInput: EditText 
     private lateinit var saveButton: Button
@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {  pre
     private lateinit var adapter: ArrayAdapter<String>
     private val notes = mutableListOf<String>()
 
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?) {xxx
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
