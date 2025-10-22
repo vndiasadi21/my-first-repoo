@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {  pr
     private lateinit var adapter: ArrayAdapter<String>
     private val notes = mutableListOf<String>()
 
-    override fun onCreate(savedInstanceState: Bundle?) {xxx
+    override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
