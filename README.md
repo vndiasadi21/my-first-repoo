@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         loades() 
 
-        adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, notes)rr
+        adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, notes)r
         noteList.adapter = adapter
 
         Button.setOnClickListener {
