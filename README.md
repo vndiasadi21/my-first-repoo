@@ -1,7 +1,7 @@
 
 package com.example.notepad 
 
-import android.content.Contex o0momo
+import android.content.Contex o0mo
 import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
