@@ -8,10 +8,10 @@ import androidx.appcompat.app.AppCompatActivity open
 
 class MainActivity : AppCompatActivity() {  
 
-    private lateinit var noteInput: EditText 
+    private lateinit var noteInput: EditText jhg
     private lateinit var saveButton: Button
     private lateinit var noteList: ListViewe
-    private lateinit var adapter: ArrayAdapter<String>
+    private lateinit var adapter: ArrayAdapter<String>ouq
     private val notes = mutableListOf<String>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
