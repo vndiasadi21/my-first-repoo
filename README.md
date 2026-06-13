@@ -36,4 +36,4 @@ class MainActivity : AppCompatActivity() {
                 saveNotes()
             } else {
                 Toast.makeText(this
-                name=input('enter your name: ')
+                name=input('enter your name: ') neda
