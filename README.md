@@ -1,39 +1,22 @@
 
-package com.example.notepad 
+nam1=eval(input('enter a number: ')) 
+   nam2= eval(input('enter a number: ')) 
+    print(f'{max} is greater than{min}')    
+number=int(input('enter an enteger: '))
 
-import android.content.Contex
-import android.os.Bundle
-import android.widget.*
-import androidx.appcompat.app.AppCompatActivity open
+if number % 2 == 0:
+    if number>100:
+        print('EVEN')
+    else:
+       print('evel')
 
-class MainActivity : AppCompatActivity() {  
+else:
+    print('odd')   
 
-    private lateinit var noteInput: EditText jhg
-    private lateinit var saveButton: Button
-    private lateinit var noteList: ListViewe
-    private lateinit var adapter: ArrayAdapter<String>ouq
-    private val notes = mutableListOf<String>()
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
-        noteInput = findViewById(R.id.noteInput)
-        saveButton = findViewById(R.id.saveButton)
-        noteList = findViewById(R.id.noteList)
-
-        loades() 
-
-        adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, notes)
-        noteList.adapter = adapter
-
-        Button.setOnClickListener {
-            val note = noteInput.text.toString()
-            if (note.isNotEmpty()) {
-                notes.add(note)
-                adapter.notifyDataSetChanged()
-                noteInput.text.clear()
-                saveNotes()
-            } else {
-                Toast.makeText(this
-                name=input('enter your name: ') 
+temp=float(input('enter the tempereture')) 
+rain=input('is it raining (yes/no): ')
+if temp < 0:
+   rain=input('is it raining (yes/no): ')
+      print('take the umbrella ')
+      print('put on your coat')
+    if rain.lower() in ('yes','y')
