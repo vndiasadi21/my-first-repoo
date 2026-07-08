@@ -20,3 +20,4 @@ if temp < 0:
       print('take the umbrella ')
       print('put on your coat')
     if rain.lower() in ('yes','y')
+print(hello)
