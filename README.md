@@ -22,5 +22,5 @@ if temp < 0:
     if rain.lower() in ('yes','y')
 print(hello)
 
-heeeeeeeeeeeeeeello
+print(heeeeeeeeeeeeeeello)
 byyyyyyyyyyyyyyyyyye
