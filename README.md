@@ -28,4 +28,4 @@ neda and yasi frind
 name = input("What is your name? ")
 
 print("Hello", name)
-print("Welcome to Python!")
+print("Welcome to Python")
