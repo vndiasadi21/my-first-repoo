@@ -29,4 +29,11 @@ name = input("What is your name? ")
 
 print("Hello", name)
 print("Welcome to Python")
-print('bey')
+print('bey')   
+
+t=0 
+for i in range(2)
+    number=int(input('enter a name:')
+if number>t:
+     print=(f'{number} is big {t}
+     
