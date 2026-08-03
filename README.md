@@ -36,4 +36,5 @@ for i in range(2)
     number=int(input('enter a name:')
 if number>t:
      print=(f'{number} is big {t}
+     t+=t
      
