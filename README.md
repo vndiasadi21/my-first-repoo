@@ -37,4 +37,6 @@ for i in range(2)
 if number>t:
      print=(f'{number} is big {t}
      t+=t
+
+     print('hani good buy')
      
