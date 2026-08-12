@@ -1,5 +1,4 @@
-x=0
-s==67
+
 nam1=eval(input('enter a number: ')) 
    nam2= eval(input('enter a number: ')) 
     print(f'{max} is greater than{min}')    
