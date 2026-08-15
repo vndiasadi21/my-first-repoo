@@ -39,5 +39,5 @@ if number>t:
      t+=t
 
      print('hani good buy')
-    good bye 
+    good bye !!!!!!!!!!
      
