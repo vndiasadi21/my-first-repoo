@@ -38,6 +38,9 @@ if number>t:
      print=(f'{number} is big {t}
      t+=t
 
-     print('hani good buy')
-    good bye !!!!!!!!!!
+     print('hani good buy')  
+
+for i in range(6)
+print('hani')
+
      
