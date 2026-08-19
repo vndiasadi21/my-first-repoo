@@ -41,6 +41,7 @@ if number>t:
      print('hani good buy')  
 
 for i in range(6)
-print('hani')
+print('hani')  
+good 5600
 
      
