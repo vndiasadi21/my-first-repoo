@@ -6,7 +6,7 @@ number=int(input('enter an enteger: '))
 
 if number % 2 == 0:
     if number>100:
-        print('EVEN')
+        print('EVEN100')
     else:
        print('evel')
 
