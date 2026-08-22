@@ -42,6 +42,7 @@ if number>t:
 
 for i in range(6)
 print('hani')  
-good 5600
+good 5600            
+print('pani')
 
      
