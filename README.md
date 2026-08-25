@@ -22,7 +22,7 @@ if temp < 0:
     if rain.lower() in ('yes','y')
 print(hello)
 
-print(heeeeeeeeeeeeeeello)
+print(hello)
 print(byyyyyyyyyyyyyyyyyye)
 neda and yasi frind
 name = input("What is your name? ")
