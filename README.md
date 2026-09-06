@@ -26,7 +26,7 @@ print(hello)
 print(byyyyyyyyyyyyyyyyyye)
 neda and yasi frind
 name = input("What is your name? ")
-
+print(fati)
 print("Hello", name1)
 print("Welcome to Python")
 print('bey')   
