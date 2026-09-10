@@ -31,7 +31,7 @@ print("Hello", name1)
 print("Welcome to Python")
 print('bey')   
 
-t=0 
+t=3
 for i in range(2)
     number=int(input('enter a name:')
 if number>t:
