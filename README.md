@@ -5,7 +5,7 @@ nam1=eval(input('enter a number: '))
 number=int(input('enter an enteger: '))
 
 if number % 2 == 0:
-    if number>100:
+    if number>1000:
         print('EVEN100')
     else:
        print('evel2')
