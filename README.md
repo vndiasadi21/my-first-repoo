@@ -30,6 +30,7 @@ print(fati)
 print("Hello", name1)
 print("Welcome to Python")
 print('bey')   
+good boy 
 
 t=3
 for i in range(2)
