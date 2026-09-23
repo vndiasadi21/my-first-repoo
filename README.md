@@ -8,7 +8,7 @@ if number % 2 == 0:
     if number>1000:
         print('EVEN100')
     else:
-       print('evel2')
+       print('eve')
 
 else:
     print('odd')   
